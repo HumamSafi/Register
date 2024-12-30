@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0ca2309.css",
+    "main.js": "/static/js/main.016b4e3e.js",
+    "static/media/crazysketch85_A_Fortnite_character_with_a_clean-shaven_beard_de_0e2a4310-808e-409c-9ef6-a7547a7d8349.png": "/static/media/crazysketch85_A_Fortnite_character_with_a_clean-shaven_beard_de_0e2a4310-808e-409c-9ef6-a7547a7d8349.c3a9abcbf65d716bc266.png",
+    "index.html": "/index.html",
+    "main.f0ca2309.css.map": "/static/css/main.f0ca2309.css.map",
+    "main.016b4e3e.js.map": "/static/js/main.016b4e3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ca2309.css",
+    "static/js/main.016b4e3e.js"
+  ]
+}
